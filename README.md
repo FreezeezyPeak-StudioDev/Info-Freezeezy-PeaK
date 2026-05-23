@@ -5,10 +5,6 @@
 <br>
 
 
-![Minecraft](https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
-
-
-
 
 
 <!-- LOGO CENTRADO -->
@@ -50,7 +46,9 @@ Soy un programador que disfruta crear programas, juegos, apps simples y proyecto
 
 ---
 
-## 🌌 Objetivo
+## 🌌 Objetivo 
+![Minecraft](https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
+
 
 Aprender, experimentar y compartir proyectos gratuitos con otras personas.
 
