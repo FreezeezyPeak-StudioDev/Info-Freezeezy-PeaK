@@ -4,9 +4,9 @@
 
 <br>
 
-![Minecraft](https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
+
 ![Steve](https://media.giphy.com/media/Te0zPUD9m7KDe/giphy.gif)
-![Creeper](https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif)
+
 
 
 <!-- LOGO CENTRADO -->
