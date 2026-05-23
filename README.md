@@ -47,10 +47,11 @@ Soy un programador que disfruta crear programas, juegos, apps simples y proyecto
 ---
 
 ## 🌌 Objetivo 
-![Minecraft](https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
 
 
 Aprender, experimentar y compartir proyectos gratuitos con otras personas.
+
+![Ton618](https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
 
 ---
 
