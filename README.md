@@ -8,7 +8,7 @@
 ![Steve](https://media.giphy.com/media/Te0zPUD9m7KDe/giphy.gif)
 ![Creeper](https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif)
 ![Mining](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
-![Pixel](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)
+
 
 <!-- LOGO CENTRADO -->
 <p align="center">
