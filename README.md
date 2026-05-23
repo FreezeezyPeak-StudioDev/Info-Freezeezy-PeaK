@@ -4,6 +4,12 @@
 
 <br>
 
+![Minecraft](https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
+![Steve](https://media.giphy.com/media/Te0zPUD9m7KDe/giphy.gif)
+![Creeper](https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif)
+![Mining](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
+![Pixel](https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif)
+
 <!-- LOGO CENTRADO -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/FreezeezyPeak/Info-Freezeezy-PeaK/main/logo_freezeezy.png" width="220">
