@@ -23,7 +23,7 @@
 
 > “Code, creativity and open projects.”
 
-Bienvenido a **FreezeezyPeak**.  
+Bienvenido a **Freezeezy Peak**.  
 Soy un programador que disfruta crear programas, juegos, apps simples y proyectos gratuitos de código abierto.
 
 ---
