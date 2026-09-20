@@ -4,50 +4,64 @@
 
 <br>
 
-
-
-
 <!-- LOGO CENTRADO -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/FreezeezyPeak/Info-Freezeezy-PeaK/main/logo_freezeezy.png" width="220">
 </p>
 
-# ❄️ FreezeezyPeak
+# FreezeezyPeak
 
 ### `Code • Create • Open Source`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Games+Developer;Open+Source+Projects;Simple+Apps+Creator;Learning+New+Things;Creative+Coding" />
 
 </div>
+
 ---
 
-> “Code, creativity and open projects.”
+> "Code, creativity and open projects."
 
 Bienvenido a **Freezeezy Peak**.  
 Soy un programador que disfruta crear programas, juegos, apps simples y proyectos gratuitos de código abierto.
 
 ---
 
-## 🚀 Proyectos
+## Sobre mí
 
-- 🎮 Juegos
-- 🧩 Apps simples
-- 🛠️ Herramientas
-- 🌐 Web Projects
-- 🧪 Experimentos y pruebas
+Soy desarrollador de juegos y creador de software independiente de Costa Rica. Trabajo en múltiples tecnologías y plataformas:
+
+**Lenguajes:** C#, C++, HTML, GDScript, Java, TypeScript, Python
+
+**Creo:** Juegos, apps, extensiones Firefox, proyectos web y herramientas de desarrollo.
+
+Todo lo que hago es parte de mi aprendizaje formativo continuo. Disfruto experimentar con diferentes tecnologías y compartir mis proyectos con la comunidad.
+
+**Canal de YouTube:** [youtube.com/@FreezeezyPeak](https://www.youtube.com/@FreezeezyPeak)
+
+**GitHub:** [github.com/FreezeezyPeak-StudioDev](https://github.com/FreezeezyPeak-StudioDev)
 
 ---
 
-## 💻 Tecnologías
+## Proyectos
+
+- Juegos
+- Apps simples
+- Extensiones Firefox
+- Proyectos web
+- Herramientas
+- Experimentos y pruebas
+
+---
+
+## Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,html,css,js,vscode,github" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,ts,python,godot,vscode,github" />
 </p>
 
 ---
 
-## 🌌 Objetivo 
-
+## Objetivo
 
 Aprender, experimentar y compartir proyectos gratuitos con otras personas.
 
@@ -55,19 +69,29 @@ Aprender, experimentar y compartir proyectos gratuitos con otras personas.
 
 ---
 
-## ⚠️ Aviso
+## Aviso
 
 Actualmente sigo trabajando en varios proyectos y mejorando muchas cosas.
 
-⏳ Algunos proyectos todavía están en desarrollo y esto tomará tiempo.
+Algunos proyectos todavía están en desarrollo y esto tomará tiempo.
 
 Por ahora solo tengo uno casi terminado, pero poco a poco iré publicando más contenido.
 
 ---
 
-## ⚡ Estado
+## Estado
 
 ```txt
-🟢 Desarrollo activo
-🔵 Nuevos proyectos próximamente
-❄️ FreezeezyPeak en crecimiento
+Desarrollo activo
+Nuevos proyectos próximamente
+FreezeezyPeak en crecimiento
+```
+
+---
+
+<p align="center">
+  <strong>Hecho por Freezeezy Peak</strong><br>
+  <a href="https://www.youtube.com/@FreezeezyPeak">YouTube</a> | 
+  <a href="https://github.com/FreezeezyPeak-StudioDev">GitHub</a> | 
+  <a href="https://addons.mozilla.org/es-ES/firefox/user/20170408/">Firefox Add-ons</a>
+</p>
