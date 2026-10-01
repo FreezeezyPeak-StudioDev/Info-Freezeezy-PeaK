@@ -1,5 +1,14 @@
 <div align="center">
 
+<!-- SELECTOR DE IDIOMA -->
+<p align="center">
+  <a href="#es">Español</a> | 
+  <a href="#en">English</a> | 
+  <a href="#pt">Português</a>
+</p>
+
+---
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Games+Developer;Open+Source+Projects;Creative+Coding;Simple+Apps+Creator;Learning+New+Things" />
 
 <br>
@@ -19,79 +28,53 @@
 
 ---
 
+## <a name="es"></a>Español
+
 > "Code, creativity and open projects."
 
 Bienvenido a **Freezeezy Peak**.  
 Soy un programador que disfruta crear programas, juegos, apps simples y proyectos gratuitos de código abierto.
 
----
+### Sobre mí
 
-## Sobre mí
-
-Soy desarrollador de juegos y creador de software independiente de Costa Rica. Trabajo en múltiples tecnologías y plataformas:
+Soy desarrollador de juegos y creador de software independiente de Costa Rica.
 
 **Lenguajes:** C#, C++, HTML, GDScript, Java, TypeScript, Python
 
-**Creo:** Juegos, apps, extensiones Firefox, proyectos web y herramientas de desarrollo.
+---
 
-Todo lo que hago es parte de mi aprendizaje formativo continuo. Disfruto experimentar con diferentes tecnologías y compartir mis proyectos con la comunidad.
+## <a name="en"></a>English
 
-**Canal de YouTube:** [youtube.com/@FreezeezyPeak](https://www.youtube.com/@FreezeezyPeak)
+> "Code, creativity and open projects."
 
-**GitHub:** [github.com/FreezeezyPeak-StudioDev](https://github.com/FreezeezyPeak-StudioDev)
+Welcome to **Freezeezy Peak**.  
+I'm a programmer who enjoys creating programs, games, simple apps and free open source projects.
+
+### About me
+
+I'm a game developer and independent software creator from Costa Rica.
+
+**Languages:** C#, C++, HTML, GDScript, Java, TypeScript, Python
 
 ---
 
-## Proyectos
+## <a name="pt"></a>Português
 
-- Juegos
-- Apps simples
-- Extensiones Firefox
-- Proyectos web
-- Herramientas
-- Experimentos y pruebas
+> "Code, creativity and open projects."
 
----
+Bem-vindo ao **Freezeezy Peak**.  
+Sou um programador que gosto de criar programas, jogos, aplicativos simples e projetos de código aberto gratuitos.
 
-## Tecnologias
+### Sobre mim
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,ts,python,godot,vscode,github" />
-</p>
+Sou desenvolvedor de jogos e criador de software independente da Costa Rica.
 
----
-
-## Objetivo
-
-Aprender, experimentar y compartir proyectos gratuitos con otras personas.
-
-![Ton618](https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
-
----
-
-## Aviso
-
-Actualmente sigo trabajando en varios proyectos y mejorando muchas cosas.
-
-Algunos proyectos todavía están en desarrollo y esto tomará tiempo.
-
-Por ahora solo tengo uno casi terminado, pero poco a poco iré publicando más contenido.
-
----
-
-## Estado
-
-```txt
-Desarrollo activo
-Nuevos proyectos próximamente
-FreezeezyPeak en crecimiento
-```
+**Linguagens:** C#, C++, HTML, GDScript, Java, TypeScript, Python
 
 ---
 
 <p align="center">
-  <strong>Hecho por Freezeezy Peak</strong><br>
-  <a href="https://www.youtube.com/@FreezeezyPeak">YouTube</a> | 
   <a href="https://github.com/FreezeezyPeak-StudioDev">GitHub</a> | 
+  <a href="https://www.youtube.com/@FreezeezyPeak">YouTube</a> | 
   <a href="https://addons.mozilla.org/es-ES/firefox/user/20170408/">Firefox Add-ons</a>
 </p>
