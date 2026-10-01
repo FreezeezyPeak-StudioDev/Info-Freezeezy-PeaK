@@ -62,9 +62,10 @@ Soy desarrollador de juegos y creador de software independiente de Costa Rica. T
 </p>
 
 <p align="center">
-  <strong>👑 Motores Principales</strong><br>
-  <img src="https://raw.githubusercontent.com/monogameio/MonoGame/develop/MonoGame.png" width="80">
+  <strong>👑 Motor Principal</strong><br>
+  <a href="https://community.monogame.net/">MonoGame</a> (Open Source)
 </p>
+
 
 ### Objetivo
 
@@ -105,8 +106,8 @@ I'm a game developer and independent software creator from Costa Rica. I work wi
 </p>
 
 <p align="center">
-  <strong>👑 Main Engines</strong><br>
-  <img src="https://raw.githubusercontent.com/monogameio/MonoGame/develop/MonoGame.png" width="80">
+  <strong>👑 Main Engine</strong><br>
+  <a href="https://community.monogame.net/">MonoGame</a> (Open Source)
 </p>
 
 ### Goal
