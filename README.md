@@ -61,6 +61,10 @@ Soy desarrollador de juegos y creador de software independiente de Costa Rica. T
 <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,ts,python,godot,vscode,github" />
 </p>
 
+<p align="center">
+  <strong>👑 MonoGame (Motor Principal)</strong>
+</p>
+
 ### Objetivo
 
 Aprender, experimentar y compartir proyectos gratuitos con otras personas.
@@ -99,6 +103,10 @@ I'm a game developer and independent software creator from Costa Rica. I work wi
 <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,ts,python,godot,vscode,github" />
 </p>
 
+<p align="center">
+  <strong>👑 MonoGame (Main Engine)</strong>
+</p>
+
 ### Goal
 
 Learn, experiment and share free projects with other people.
@@ -111,7 +119,7 @@ Learn, experiment and share free projects with other people.
 
 <p align="center">
   <strong>Made by Freezeezy Peak</strong><br>
-  <a href="https://www.youtube.com/@FreezeezyPeak">YouTube</a> | 
   <a href="https://github.com/FreezeezyPeak-StudioDev">GitHub</a> | 
+  <a href="https://www.youtube.com/@FreezeezyPeak">YouTube</a> | 
   <a href="https://addons.mozilla.org/es-ES/firefox/user/20170408/">Firefox Add-ons</a>
 </p>
