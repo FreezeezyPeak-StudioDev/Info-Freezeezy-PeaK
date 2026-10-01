@@ -58,11 +58,12 @@ Soy desarrollador de juegos y creador de software independiente de Costa Rica. T
 ### Tecnologías
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,ts,python,godot,vscode,github" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,ts,python,godot,unity,vscode,github" />
 </p>
 
 <p align="center">
-  <strong>👑 MonoGame (Motor Principal)</strong>
+  <strong>👑 Motores Principales</strong><br>
+  <img src="https://raw.githubusercontent.com/monogameio/MonoGame/develop/MonoGame.png" width="80">
 </p>
 
 ### Objetivo
@@ -100,11 +101,12 @@ I'm a game developer and independent software creator from Costa Rica. I work wi
 ### Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,ts,python,godot,vscode,github" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,ts,python,godot,unity,vscode,github" />
 </p>
 
 <p align="center">
-  <strong>👑 MonoGame (Main Engine)</strong>
+  <strong>👑 Main Engines</strong><br>
+  <img src="https://raw.githubusercontent.com/monogameio/MonoGame/develop/MonoGame.png" width="80">
 </p>
 
 ### Goal
