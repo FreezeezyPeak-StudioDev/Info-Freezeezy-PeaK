@@ -63,7 +63,7 @@ Soy desarrollador de juegos y creador de software independiente de Costa Rica. T
 
 <p align="center">
   <strong>👑 Motor Principal</strong><br>
-  <img src="https://es.wikipedia.org/wiki/Archivo:MonoGame_Logo.svg" width="100">
+  <img src="https://github.com/FreezeezyPeak-StudioDev/NEXUM-EXTINCTION-DEMO/blob/main/MonoGame_Logo.svg.webp?raw=true" width="100">
   <br>
   <a href="https://community.monogame.net/">MonoGame</a> (Código Abierto)
 </p>
@@ -100,6 +100,8 @@ I'm a game developer and independent software creator from Costa Rica. I work wi
 - Web projects
 - Tools
 - Experiments and tests
+
+  
 ### Technologies
 
 <p align="center">
@@ -108,7 +110,7 @@ I'm a game developer and independent software creator from Costa Rica. I work wi
 
 <p align="center">
   <strong>👑 Main Engine</strong><br>
-  <img src="https://es.wikipedia.org/wiki/Archivo:MonoGame_Logo.svg" width="100">
+  <img src="https://github.com/FreezeezyPeak-StudioDev/NEXUM-EXTINCTION-DEMO/blob/main/MonoGame_Logo.svg.webp?raw=true" width="100">
   <br>
   <a href="https://community.monogame.net/">MonoGame</a> (Open Source)
 </p>
