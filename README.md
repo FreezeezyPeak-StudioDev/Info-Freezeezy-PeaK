@@ -4,7 +4,6 @@
 
 <br>
 
-<!-- LOGO CENTRADO -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/FreezeezyPeak/Info-Freezeezy-PeaK/main/logo_freezeezy.png" width="220">
 </p>
@@ -13,30 +12,26 @@
 
 ### `Code • Create • Open Source`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Games+Developer;Open+Source+Projects;Simple+Apps+Creator;Learning+New+Things;Creative+Coding" />
-
 </div>
 
 ---
 
 > "Code, creativity and open projects."
 
-<!-- SELECTOR DE IDIOMA -->
 <p align="center">
-  <a href="#es">🇪🇸 Español</a> | 
-  <a href="#en">🇺🇸 English</a>
+  <a href="#es">🇪🇸 Español</a> &nbsp;|&nbsp; <a href="#en">🇺🇸 English</a>
 </p>
 
 ---
 
 ## <a name="es"></a>Español
 
-Bienvenido a **Freezeezy Peak**.  
+Bienvenido a **Freezeezy Peak**.
 Soy un programador que disfruta crear programas, juegos, apps simples y proyectos gratuitos de código abierto.
 
 ### Sobre mí
 
-Soy desarrollador de juegos y creador de software independiente de Costa Rica. Trabajo en múltiples tecnologías y plataformas:
+Soy desarrollador de juegos y creador de software independiente. Trabajo con múltiples tecnologías y plataformas:
 
 **Lenguajes:** C#, C++, HTML, GDScript, Java, TypeScript, Python
 
@@ -44,7 +39,9 @@ Soy desarrollador de juegos y creador de software independiente de Costa Rica. T
 
 **Canal de YouTube:** [youtube.com/@FreezeezyPeak](https://www.youtube.com/@FreezeezyPeak)
 
-**GitHub:** [github.com/FreezeezyPeak-StudioDev](https://github.com/FreezeezyPeak-StudioDev)
+**GitHub del estudio:** [github.com/FreezeezyPeak-StudioDev](https://github.com/FreezeezyPeak-StudioDev)
+
+**GitHub personal:** [github.com/JarvioLopez](https://github.com/JarvioLopez)
 
 ### Proyectos
 
@@ -68,21 +65,22 @@ Soy desarrollador de juegos y creador de software independiente de Costa Rica. T
   <a href="https://community.monogame.net/">MonoGame</a> (Código Abierto)
 </p>
 
-
 ### Objetivo
 
 Aprender, experimentar y compartir proyectos gratuitos con otras personas.
+
+[⬆ Arriba](#freezeezypeak)
 
 ---
 
 ## <a name="en"></a>English
 
-Welcome to **Freezeezy Peak**.  
+Welcome to **Freezeezy Peak**.
 I'm a programmer who enjoys creating programs, games, simple apps and free open source projects.
 
 ### About me
 
-I'm a game developer and independent software creator from Costa Rica. I work with multiple technologies and platforms:
+I'm a game developer and independent software creator. I work with multiple technologies and platforms:
 
 **Languages:** C#, C++, HTML, GDScript, Java, TypeScript, Python
 
@@ -90,7 +88,9 @@ I'm a game developer and independent software creator from Costa Rica. I work wi
 
 **YouTube Channel:** [youtube.com/@FreezeezyPeak](https://www.youtube.com/@FreezeezyPeak)
 
-**GitHub:** [github.com/FreezeezyPeak-StudioDev](https://github.com/FreezeezyPeak-StudioDev)
+**Studio GitHub:** [github.com/FreezeezyPeak-StudioDev](https://github.com/FreezeezyPeak-StudioDev)
+
+**Personal GitHub:** [github.com/JarvioLopez](https://github.com/JarvioLopez)
 
 ### Projects
 
@@ -101,7 +101,6 @@ I'm a game developer and independent software creator from Costa Rica. I work wi
 - Tools
 - Experiments and tests
 
-  
 ### Technologies
 
 <p align="center">
@@ -119,15 +118,14 @@ I'm a game developer and independent software creator from Costa Rica. I work wi
 
 Learn, experiment and share free projects with other people.
 
----
-
-![Ton618](https://media.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif)
+[⬆ Top](#freezeezypeak)
 
 ---
 
 <p align="center">
   <strong>Made by Freezeezy Peak</strong><br>
-  <a href="https://github.com/FreezeezyPeak-StudioDev">GitHub</a> | 
-  <a href="https://www.youtube.com/@FreezeezyPeak">YouTube</a> | 
+  <a href="https://github.com/FreezeezyPeak-StudioDev">GitHub</a> |
+  <a href="https://github.com/JarvioLopez">Personal GitHub</a> |
+  <a href="https://www.youtube.com/@FreezeezyPeak">YouTube</a> |
   <a href="https://addons.mozilla.org/es-ES/firefox/user/20170408/">Firefox Add-ons</a>
 </p>
